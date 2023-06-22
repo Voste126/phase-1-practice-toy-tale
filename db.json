@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "mcqueen",
+      "image": "https://imgix.bustle.com/fatherly/2020/10/lightning-mcqueen-car.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
